@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Ryan Collins</string>
+	<key>Builder Version</key>
+	<string>11601.1.50</string>
+	<key>CFBundleDisplayName</key>
+	<string>Keeper Blocker</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ryanmcollins.keeperblocker</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Database Quota</key>
+		<integer>0</integer>
+		<key>Global Page</key>
+		<string>keeper_global.html</string>
+	</dict>
+	<key>Companion Bundle Identifier</key>
+	<array>
+		<string>1</string>
+	</array>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>keeperblocker.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Blocks MacKeeper Pages from Displaying</string>
+	<key>DeveloperIdentifier</key>
+	<string>8VF4S3W85G</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://ryanmcollins.com/safari-extensions/keeper-blocker/</string>
+	<key>Website</key>
+	<string>http://ryanmcollins.com/</string>
+</dict>
+</plist>
