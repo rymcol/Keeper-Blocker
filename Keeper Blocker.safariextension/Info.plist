@@ -9,13 +9,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Keeper Blocker</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.ryanmcollins.keeperblocker</string>
+	<string>com.ryanmcollins.keeper-blocker</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.0</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
@@ -24,9 +24,7 @@
 		<string>keeper_global.html</string>
 	</dict>
 	<key>Companion Bundle Identifier</key>
-	<array>
-		<string>1</string>
-	</array>
+	<array/>
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
