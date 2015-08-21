@@ -1,8 +1,9 @@
-var theURI = window.location.href;
+function findTheKeeper() {
+	var theURI = window.location.href;
 
-var itsTheKeeper = theURI.match('mackeeper\.(com|net|org)');
+	var itsTheKeeper = theURI.match('mackeeper\.(com|net|org)');
 
-if (itsTheKeeper) {
+	if (itsTheKeeper) {
 
 		var theDocList = document.getElementsByTagName('html');
 	
@@ -12,5 +13,10 @@ if (itsTheKeeper) {
 		if (confirm("This website may be harmful and will be closed")) {
 			var closeMessage = "close-tab";
 			safari.self.tab.dispatchMessage("Close",closeMessage);
-  }
+	 	}
+
+	}
+	
 }
+
+findTheKeeper();
