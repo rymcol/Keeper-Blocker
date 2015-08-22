@@ -52,7 +52,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://ryanmcollins.com/safari-extensions/keeper-blocker/</string>
+	<string>http://ryanmcollins.com/safari-extensions/keeper-blocker/Update.plist</string>
 	<key>Website</key>
 	<string>http://ryanmcollins.com/</string>
 </dict>
