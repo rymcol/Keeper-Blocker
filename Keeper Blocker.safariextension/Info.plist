@@ -31,7 +31,7 @@
 		<dict>
 			<key>Start</key>
 			<array>
-				<string>keeperblocker.js</string>
+				<string>keeper_blocker.js</string>
 			</array>
 		</dict>
 	</dict>
@@ -52,7 +52,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://ryanmcollins.com/safari-extensions/keeper-blocker/Update.plist</string>
+	<string>http://ryanmcollins.com/downloads/keeper-blocker/Update.plist</string>
 	<key>Website</key>
 	<string>http://ryanmcollins.com/</string>
 </dict>
