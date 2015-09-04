@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Ryan Collins</string>
 	<key>Builder Version</key>
-	<string>11601.1.50</string>
+	<string>11601.1.56</string>
 	<key>CFBundleDisplayName</key>
 	<string>Keeper Blocker</string>
 	<key>CFBundleIdentifier</key>
@@ -54,6 +54,6 @@
 	<key>Update Manifest URL</key>
 	<string>https://raw.githubusercontent.com/ryanmcollins/Keeper-Blocker/master/Update.plist?token=AC0VNdICCuahmiXjpc6WecWO41e8dzeBks5V80CMwA%3D%3D</string>
 	<key>Website</key>
-	<string>http://ryanmcollins.com/</string>
+	<string>https://github.com/ryanmcollins</string>
 </dict>
 </plist>
