@@ -52,7 +52,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://ryanmcollins.com/downloads/keeper-blocker/Update.plist</string>
+	<string>https://raw.githubusercontent.com/ryanmcollins/Keeper-Blocker/master/Update.plist?token=AC0VNdICCuahmiXjpc6WecWO41e8dzeBks5V80CMwA%3D%3D</string>
 	<key>Website</key>
 	<string>http://ryanmcollins.com/</string>
 </dict>
