@@ -7,3 +7,7 @@ Keeper Blocker is meant to be installed on Safari browsers to block webpages mat
 ##Use
 
 Install on Safari to block pages which match 'mackeeper\.(com|net|org)'
+
+##Creation &amp; Attribution
+
+Created by Ryan Collins [@CollinsRyanM](https://twitter.com/collinsryanm "Author") to share with the world. Artwork custom designed by Von Bixby Romo. 
