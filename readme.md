@@ -16,4 +16,4 @@ MacKeeper is a Trademark of Kromtech Alliance Corp ('KAC'). This plugin has no a
 
 ##Creation &amp; Attribution
 
-Created by Ryan Collins [@RyMCol](https://twitter.com/rymcol/ "Author") to share with the world. All artwork was custom designed by [Von Bixby Romo](http://www.vonbix.com/). 
+Created by [Ryan Collins](https://twitter.com/rymcol/ "Author") to share with the world. All artwork was custom designed by [Von Bixby Romo](http://www.vonbix.com/). 
